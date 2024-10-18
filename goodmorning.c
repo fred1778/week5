@@ -2,10 +2,7 @@
 
 int main (void){
 
-	printf("Welcome to the repo!"\n);
+  printf("Welcome to the repo!"\n);
 
 return 0;
-
-
-
 }
